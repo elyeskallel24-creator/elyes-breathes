@@ -27,5 +27,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: elyes-breathes-app
-          path: android/app/build/outputs/apk/debug/apk-debug.apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
 
